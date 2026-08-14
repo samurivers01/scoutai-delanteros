@@ -1,0 +1,2 @@
+# scoutai-delanteros
+Entrenador delanteros
